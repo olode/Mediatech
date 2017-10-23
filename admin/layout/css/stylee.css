@@ -1,0 +1,71 @@
+*{
+  margin: 0 auto;
+  padding: 0;
+  background-color: #ddd !important;
+}
+
+.one
+{
+  background-color: #ddd;
+  width: 30%;
+  height: 400px;
+  margin-top: 10%;
+  transform: rotateZ(-3deg);
+  box-shadow: 3px 3px 20px #000;
+  border-radius: 5px;
+}
+.two
+{
+  background-color: #ddd;
+  width: 100%;
+  height: 395px;
+  transform: rotateZ(3deg);
+  box-shadow: 5px 5px 20px #000;
+  border-radius: 5px;
+}
+.three
+{
+  background-color: #ddd;
+  width: 90%;
+  height: 390px;
+  transform: rotateZ(3deg);
+  box-shadow: 5px 5px 20px #000;
+  border-radius: 5px;
+}
+.four
+{
+  background-color: #ddd;
+  width: 100%;
+  height: 390px;
+  transform: rotateZ(-3deg);
+  box-shadow: 5px 5px 20px #000;
+  border-radius: 5px;
+}
+.four form
+{
+  margin: 0 auto;
+  width: 80%;
+  padding-top: 90px;
+}
+.four form input
+{
+  width: 100%;
+  height: 35px;
+  border-radius: 5px;
+  border: none;
+  border: 2px solid #fff;
+  margin-bottom: 10px;
+
+}
+.four form input:last-child
+{
+  background-color: #fff;
+  margin-top: 30px;
+}
+body{
+  background-color: #ddd !important;
+}
+.d
+{
+  background-color: #fff !important;
+}
